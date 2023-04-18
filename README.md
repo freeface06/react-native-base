@@ -1,7 +1,6 @@
-미완성작 입니다. 개발 진행중...
+# react-native
 
-
-It is an incomplete work. Development in progress...
+로그인, 5개 텝 메인화면
 
 
 
